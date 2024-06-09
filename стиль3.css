@@ -1,0 +1,14 @@
+footer {
+    text-align: center;
+    margin-top: 20px;
+}
+
+#grades-link {
+    text-decoration: none; /* Убираем подчеркивание */
+    color: #333; /* Цвет ссылки */
+    transition: color 0.3s; /* Плавное изменение цвета при наведении */
+}
+
+#grades-link:hover {
+    color: #007bff; /* Цвет ссылки при наведении */
+}
